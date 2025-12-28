@@ -1,5 +1,23 @@
 # 🐟 Fish Market Linear Regression Project
 
+# 📖 Description
+This repository contains a machine learning project that applies Linear Regression to the Fish Market Dataset. The dataset includes measurements of different fish species such as length, height, and width, along with their weights.
+
+The goal of this project is to build a regression model that can accurately predict the weight of fish based on physical dimensions.
+
+ Key highlights:
+
+Data preprocessing: cleaning and preparing the dataset.
+
+Exploratory Data Analysis (EDA): visualizing correlations between fish measurements and weight.
+
+Model training: applying scikit-learn’s LinearRegression.
+
+Evaluation: using metrics like Mean Squared Error (MSE) and R² score.
+
+Visualization: comparing predicted vs actual weights.
+
+This project is designed as a beginner-friendly introduction to regression modeling, while also offering opportunities to extend into more advanced techniques such as polynomial regression, species-specific models, and residual analysis.
 # 📌 Overview
 
 This project applies Linear Regression to the Fish Market Dataset from Kaggle.
